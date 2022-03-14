@@ -1,5 +1,10 @@
 a = 20
 b = 30
 c = 10
-print(a+b+c)
+d = 00
+
+print(a+b+c-d)
+
+
+
 
